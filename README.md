@@ -1,0 +1,1 @@
+#LeiloesTDSat Este projeto é um sistema informatizado para gerenciar as rotinas de casa de leiloes, incluindo cadastro de itens, gerenciamento de lances e controle de usuários.##Tecnologias Utilizadas-Java- MySQL- Git- Github
